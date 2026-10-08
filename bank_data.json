@@ -1,0 +1,22 @@
+{
+  "4529922155": {
+    "name": "kk",
+    "salt": "2ab23d40a5d3d897cc1d5c368afb4513",
+    "pin_hash": "aaecd6e04bef99f430bd6598c3c9c8f28c7da61b3f406213b472fb97738549c1",
+    "balance_cents": 15642000,
+    "transactions": [
+      {
+        "time": "2026-09-30T17:05:18",
+        "type": "Deposit",
+        "amount_cents": 15900000,
+        "note": "Cash deposit"
+      },
+      {
+        "time": "2026-09-30T17:05:48",
+        "type": "Withdrawal",
+        "amount_cents": 258000,
+        "note": "Cash withdrawal"
+      }
+    ]
+  }
+}
